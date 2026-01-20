@@ -1,7 +1,7 @@
 # 📈 台股歷史市場慣性分析 (Taiwan Stock Market Analysis)
 
 ## 專案簡介 (Introduction)
-本專案利用 Python 針對台灣證券交易所 (TWSE) 近 20 年 (民國 100-115 年) 的每日成交資訊進行自動化擷取與分析。
+本專案利用 Python 針對台灣證券交易所 (TWSE) 近 20 年 (民國 95-115 年) 的每日成交資訊進行自動化擷取與分析。
 
 身為具備經濟學與統計背景的分析者，我試圖透過數據驗證常見的市場假說，如「星期效應 (Weekday Effect)」與「日曆效應 (Calendar Effect)」，並利用量化數據尋找適合定期定額的投入時間點。
 
@@ -31,8 +31,8 @@
 
 ### 3. MA (移動平均)&RSI (相對強弱指標)
 <img width="4500" height="3000" alt="Image" src="https://github.com/user-attachments/assets/f7c9d85f-7d46-4fb5-9285-826a0b4d07a2" />
-MA (移動平均)：其實就是統計學裡的**「平滑化 (Smoothing)」**，用來消除雜訊看趨勢。
-RSI (相對強弱指標)：其實就是統計學裡的**「動能 (Momentum) 與常態分佈」**概念，看現在是不是乖離太遠（過熱或過冷）。
+* MA (移動平均)：其實就是統計學裡的**「平滑化 (Smoothing)」**，用來消除雜訊看趨勢。
+* RSI (相對強弱指標)：其實就是統計學裡的**「動能 (Momentum) 與常態分佈」**概念，看現在是不是乖離太遠（過熱或過冷）。
 
 ## 使用技術 (Tech Stack)
 * **Language**: Python 3.10
