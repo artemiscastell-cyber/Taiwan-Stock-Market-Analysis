@@ -28,18 +28,20 @@
 
 ### 2. 最佳定期定額扣款日 (Best DCA Day)
 <img width="4500" height="1800" alt="Image" src="https://github.com/user-attachments/assets/f8b2e19f-933b-4f95-8156-e17668eb79dd" />
-* **觀察**：每月 18-20 號附近常出現較大的平均跌幅（綠棒）。
-* **策略**：建議避開月初（1-5號）的發薪日買盤，改於月中回檔時扣款，長期可望優化持倉成本。
+
+* **觀察**：每月 12 號 或 19-20 號附近常出現較大的平均跌幅（綠棒）。
+
+* **策略**：建議避開月初（1-4號）的發薪日買盤，改於月中回檔時扣款，長期可望優化持倉成本。
 
 ### 3. MA (移動平均)&RSI (相對強弱指標)
 <img width="4500" height="3000" alt="Image" src="https://github.com/user-attachments/assets/f7c9d85f-7d46-4fb5-9285-826a0b4d07a2" />
 
-* MA (移動平均)：其實就是統計學裡的**「平滑化 (Smoothing)」**，用來消除雜訊看趨勢。
+* MA (移動平均)：「平滑化 (Smoothing)」，用來消除雜訊看趨勢。
 
-* RSI (相對強弱指標)：其實就是統計學裡的**「動能 (Momentum) 與常態分佈」**概念，看現在是不是乖離太遠（過熱或過冷）。
+* RSI (相對強弱指標)：「動能 (Momentum) 與常態分佈」概念，看現在是不是乖離太遠（過熱或過冷）。
 
 ## 使用技術 (Tech Stack)
-* **Language**: Python 3.10
+* **Language**: Python 3
 * **Libraries**: `pandas`, `requests`, `matplotlib`, `seaborn`, `re`
 
 ## 如何執行 (How to Run)
@@ -48,5 +50,5 @@
 3. 執行程式碼即可重現所有圖表。
 
 ---
-**Author**: 
-**Contact**: 
+**Author**: Ping-Hsun Shen
+**Contact**: @artemiscastell
