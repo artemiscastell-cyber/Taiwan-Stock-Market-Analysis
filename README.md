@@ -16,17 +16,23 @@
 * **視覺化 (Visualization)**：
     * 繪製多軸趨勢圖 (Subplots) 呈現市場長期走勢。
     * 設定「8000億天量」警戒線與視覺化標註。
+<img width="4500" height="3600" alt="Image" src="https://github.com/user-attachments/assets/c9d8b2b4-9283-4574-9ad5-d4a013bf6ed1" />  
 
 ## 分析洞察 (Key Insights)
 ### 1. 星期效應 (The Weekday Effect)
-![這裡請放星期效應分析的截圖](https://your-image-link.com)
+<img width="4200" height="1500" alt="Image" src="https://github.com/user-attachments/assets/74ae993a-d73c-45ac-a53c-8e23a84af1ac" />
 * **觀察**：統計顯示週一平均跌幅最大，週二通常伴隨反彈。
 * **推論**：這符合行為金融學中的「藍色星期一」假說，週末累積的負面資訊傾向在週一宣洩。
 
 ### 2. 最佳定期定額扣款日 (Best DCA Day)
-![這裡請放每月1-31日分析的截圖](https://your-image-link.com)
+<img width="4500" height="1800" alt="Image" src="https://github.com/user-attachments/assets/f8b2e19f-933b-4f95-8156-e17668eb79dd" />
 * **觀察**：每月 18-20 號附近常出現較大的平均跌幅（綠棒）。
 * **策略**：建議避開月初（1-5號）的發薪日買盤，改於月中回檔時扣款，長期可望優化持倉成本。
+
+### 3. MA (移動平均)&RSI (相對強弱指標)
+<img width="4500" height="3000" alt="Image" src="https://github.com/user-attachments/assets/f7c9d85f-7d46-4fb5-9285-826a0b4d07a2" />
+MA (移動平均)：其實就是統計學裡的**「平滑化 (Smoothing)」**，用來消除雜訊看趨勢。
+RSI (相對強弱指標)：其實就是統計學裡的**「動能 (Momentum) 與常態分佈」**概念，看現在是不是乖離太遠（過熱或過冷）。
 
 ## 使用技術 (Tech Stack)
 * **Language**: Python 3.10
