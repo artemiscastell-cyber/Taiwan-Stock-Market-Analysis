@@ -55,4 +55,4 @@
 
 ---
 **Author**: Ping-Hsun Shen
-**Contact**: @artemiscastell
+**Contact**: @ArtemisCastell
