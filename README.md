@@ -16,25 +16,29 @@
 * **視覺化 (Visualization)**：
     * 繪製多軸趨勢圖 (Subplots) 呈現市場長期走勢。
     * 設定「8000億天量」警戒線與視覺化標註。
-<img width="4500" height="3600" alt="Image" src="https://github.com/user-attachments/assets/c9d8b2b4-9283-4574-9ad5-d4a013bf6ed1" />  
+
+![](images/stock_analysis_result.png)
 
 ## 分析洞察 (Key Insights)
 ### 1. 星期效應 (The Weekday Effect)
-<img width="4200" height="1500" alt="Image" src="https://github.com/user-attachments/assets/74ae993a-d73c-45ac-a53c-8e23a84af1ac" />
+
+![](images/stock_analysis_result2.png)
 
 * **觀察**：統計顯示週一平均跌幅最大，週二通常伴隨反彈。
 
 * **推論**：這符合行為金融學中的「藍色星期一」假說，週末累積的負面資訊傾向在週一宣洩。
 
 ### 2. 最佳定期定額扣款日 (Best DCA Day)
-<img width="4500" height="1800" alt="Image" src="https://github.com/user-attachments/assets/f8b2e19f-933b-4f95-8156-e17668eb79dd" />
+
+![](images/stock_analysis_result3.png)
 
 * **觀察**：每月 12 號 或 19-20 號附近常出現較大的平均跌幅（綠棒）。
 
 * **策略**：建議避開月初（1-4號）的發薪日買盤，改於月中回檔時扣款，長期可望優化持倉成本。
 
 ### 3. MA (移動平均)&RSI (相對強弱指標)
-<img width="4500" height="3000" alt="Image" src="https://github.com/user-attachments/assets/f7c9d85f-7d46-4fb5-9285-826a0b4d07a2" />
+
+![](images/stock_analysis_result4.png)
 
 * MA (移動平均)：「平滑化 (Smoothing)」，用來消除雜訊看趨勢。
 
