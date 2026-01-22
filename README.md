@@ -16,6 +16,7 @@
 * **視覺化 (Visualization)**：
     * 繪製多軸趨勢圖 (Subplots) 呈現市場長期走勢。
     * 設定「8000億天量」警戒線與視覺化標註。
+images/stock_analysis_result.png
 <img width="4500" height="3600" alt="Image" src="https://github.com/user-attachments/assets/c9d8b2b4-9283-4574-9ad5-d4a013bf6ed1" />  
 
 ## 分析洞察 (Key Insights)
