@@ -49,8 +49,8 @@
 * **Libraries**: `pandas`, `requests`, `matplotlib`, `seaborn`, `re`
 
 ## 如何執行 (How to Run)
-1. 下載本專案的 `stock_analysis.ipynb`。
-2. 使用 Google Colab 或 Jupyter Notebook 開啟。
+1. 下載本專案的 `證交所資料.ipynb`。
+2. 使用 Google Colab 開啟。
 3. 執行程式碼即可重現所有圖表。
 
 ---
